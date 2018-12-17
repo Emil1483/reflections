@@ -6,3 +6,6 @@ The staging area is where I put the files that I want to be in a commit. It acts
 
 How can you use the staging area to make sure you have one commit per logical change?
 I can use git diff --staged to find out what changes is between the most recent commit and the staging area. This way, I can check if doing a commit will hace one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I wanted to add some dangerous or experimental feuture, I could do that without ruining anything. I could disregard any changes that I do not want. If I wanted to add a long feuture to some softwere, I could do that and add the feurure to the master when I am done.
