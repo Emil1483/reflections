@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+I guess I have to create a commit to start tracking my files. When I initialize a repository, it creates a file called .git that stores all the commits. It also says (master #) after Emil in the prompt.

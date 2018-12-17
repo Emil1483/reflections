@@ -1,0 +1,24 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It helped me my showing me the exact diffrences in the code, but did not highlight the exact
+misspellings in the code
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Because then I would not have to worry about saving older versions of the same prosject. Doing 
+this would waste a lot of time that could be spent writing code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The main pro of manually choosing when tro create a commit would be that all the commits would make sense. And that would make it easyer to verson control
+On the other hand, it is prone to user error if you make too big or too small commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because these are used for completely diffrent tasks. Coding and writing are quite diffrent. It makes sense that coding effects multiple files, but not with writing in f.eks. Docs.
+
+How can you use the commands git log and git diff to view the history of files?
+I use git log to view the repository to see all the changes of the file. Then I use git diff to view the spesific lines of code that changed.
+
+How might using version control make you more confident to make changes that could break something?
+Because them I would not have to worry about breaking anything as I could just go back a couple of commits to find what broke it.
+This would also make me a more efficent programmer.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use git to be confident in making huge changes as I could just revert it to an older commit if it breakes anything. I would also use git to be efficent while collabirating with others
