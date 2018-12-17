@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 I guess I have to create a commit to start tracking my files. When I initialize a repository, it creates a file called .git that stores all the commits. It also says (master #) after Emil in the prompt.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is where I put the files that I want to be in a commit. It acts on the reposetory which is all inside of the working directory. This is where all the files are stored.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use git diff --staged to find out what changes is between the most recent commit and the staging area. This way, I can check if doing a commit will hace one logical change.
