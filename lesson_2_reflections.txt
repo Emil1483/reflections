@@ -12,3 +12,6 @@ If I wanted to add some dangerous or experimental feuture, I could do that witho
 
 How do the diagrams help you visualize the branch structure?
 They help me by showing me where each branch are and how they are connected like a tree.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that the code from both of the brances combine in one huge commit. 
