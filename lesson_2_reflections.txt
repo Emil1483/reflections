@@ -15,3 +15,6 @@ They help me by showing me where each branch are and how they are connected like
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is that the code from both of the brances combine in one huge commit. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros is that it saves a lot of time and frustration, making me a more efficent programmer. However, when I recieve an error message, it make take longer to use git's automatic merging vs manual.
