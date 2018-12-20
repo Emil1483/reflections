@@ -3,3 +3,6 @@ I would do this if I wanted to share my code with the world or when I am collabo
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because I do not know what the changes did, so I do not know if it might interfer with my code. Also, if it happened automaticly, it might just confuse me.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are clones but stored only in GitHub, and branches just make up the forks and clones.
