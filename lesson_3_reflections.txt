@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all your work local?
+I would do this if I wanted to share my code with the world or when I am collaborating with others on a project. 
