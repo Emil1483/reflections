@@ -9,3 +9,6 @@ Forks are clones but stored only in GitHub, and branches just make up the forks 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 One benifit is that I could compare my changes to the last updated version from GitHub. I could know how my changes would affect the GitHub repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would send my my changes as a new file that we would have to hold order on. That would be much harder and time consuming. However, I would not have to understand all the terms and commands assosieted with git and github. I would also not need a gitHub account and I would not have for permission to host my files privetly. That would be easier.
