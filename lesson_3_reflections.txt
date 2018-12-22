@@ -6,3 +6,6 @@ Because I do not know what the changes did, so I do not know if it might interfe
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are clones but stored only in GitHub, and branches just make up the forks and clones.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+One benifit is that I could compare my changes to the last updated version from GitHub. I could know how my changes would affect the GitHub repository.
