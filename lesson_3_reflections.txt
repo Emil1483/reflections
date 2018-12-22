@@ -12,3 +12,6 @@ One benifit is that I could compare my changes to the last updated version from 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would send my my changes as a new file that we would have to hold order on. That would be much harder and time consuming. However, I would not have to understand all the terms and commands assosieted with git and github. I would also not need a gitHub account and I would not have for permission to host my files privetly. That would be easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes directly into master is really simple and easy. However, by making the changes in a separate branch allows the creator of the gitHub repository to review the changes before merging the changes. In that way, everyone would allways be on the same page and the would make a team work way more efficently.
